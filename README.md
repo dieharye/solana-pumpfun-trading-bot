@@ -1,4 +1,7 @@
 A PumpFun copy trading bot is an automated software tool designed to replicate the trading activities of successful traders on the PumpFun platform. PumpFun is a platform that focuses on meme coins and speculative crypto assets, often involving high-risk, high-reward trading strategies. The copy trading bot allows users to automatically mirror the trades of experienced or profitable traders, enabling them to benefit from their expertise without actively managing their own trades.
+## Contact
+
+[midaBricoll](https://t.me/midaBricoll)
 
 ---
 
